@@ -6,6 +6,7 @@ HWI prep
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/sharmashivam755/HWI/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -14,6 +15,7 @@ HWI prep
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/sharmashivam755/HWI/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
