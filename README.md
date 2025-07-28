@@ -12,6 +12,7 @@ HWI prep
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@ HWI prep
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmashivam755/HWI/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sharmashivam755/HWI/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -46,4 +48,8 @@ HWI prep
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/sharmashivam755/HWI/tree/master/0338-counting-bits) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
