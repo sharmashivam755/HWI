@@ -29,6 +29,7 @@ HWI prep
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sharmashivam755/HWI/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sharmashivam755/HWI/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -62,4 +63,12 @@ HWI prep
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharmashivam755/HWI/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sharmashivam755/HWI/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sharmashivam755/HWI/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
