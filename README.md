@@ -14,6 +14,7 @@ HWI prep
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharmashivam755/HWI/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sharmashivam755/HWI/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/sharmashivam755/HWI/tree/master/0198-house-robber) |
+| [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0747-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -82,4 +83,12 @@ HWI prep
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sharmashivam755/HWI/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
