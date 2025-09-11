@@ -70,6 +70,7 @@ HWI prep
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
@@ -91,4 +92,8 @@ HWI prep
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
