@@ -97,4 +97,24 @@ HWI prep
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
+## Depth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
