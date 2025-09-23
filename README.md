@@ -75,6 +75,7 @@ HWI prep
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
@@ -104,6 +105,7 @@ HWI prep
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 | [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -121,4 +123,16 @@ HWI prep
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
