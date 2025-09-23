@@ -43,6 +43,7 @@ HWI prep
 | [0002-add-two-numbers](https://github.com/sharmashivam755/HWI/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sharmashivam755/HWI/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ HWI prep
 | ------- |
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
