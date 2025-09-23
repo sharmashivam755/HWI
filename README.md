@@ -22,6 +22,7 @@ HWI prep
 | ------- |
 | [0015-3sum](https://github.com/sharmashivam755/HWI/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -71,6 +72,7 @@ HWI prep
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
