@@ -26,6 +26,7 @@ HWI prep
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -48,6 +49,7 @@ HWI prep
 | [0062-unique-paths](https://github.com/sharmashivam755/HWI/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +146,8 @@ HWI prep
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
