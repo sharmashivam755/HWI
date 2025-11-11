@@ -55,6 +55,7 @@ HWI prep
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sharmashivam755/HWI/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ HWI prep
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -78,6 +80,7 @@ HWI prep
 | ------- |
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
