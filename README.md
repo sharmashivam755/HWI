@@ -56,6 +56,7 @@ HWI prep
 | [0231-power-of-two](https://github.com/sharmashivam755/HWI/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1236-n-th-tribonacci-number) |
+| [1642-water-bottles](https://github.com/sharmashivam755/HWI/tree/master/1642-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,4 +167,8 @@ HWI prep
 | ------- |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/sharmashivam755/HWI/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
