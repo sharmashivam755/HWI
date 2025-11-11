@@ -6,6 +6,7 @@ HWI prep
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sharmashivam755/HWI/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sharmashivam755/HWI/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/sharmashivam755/HWI/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sharmashivam755/HWI/tree/master/0055-jump-game) |
@@ -165,6 +166,7 @@ HWI prep
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sharmashivam755/HWI/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 ## Simulation
