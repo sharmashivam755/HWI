@@ -53,6 +53,7 @@ HWI prep
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sharmashivam755/HWI/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ HWI prep
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sharmashivam755/HWI/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sharmashivam755/HWI/tree/master/0338-counting-bits) |
 ## String
 |  |
@@ -102,6 +104,7 @@ HWI prep
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sharmashivam755/HWI/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/sharmashivam755/HWI/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
