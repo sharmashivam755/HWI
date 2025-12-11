@@ -19,6 +19,7 @@ HWI prep
 | [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0747-min-cost-climbing-stairs) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ HWI prep
 | [0015-3sum](https://github.com/sharmashivam755/HWI/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ HWI prep
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Shortest Path
 |  |
 | ------- |
