@@ -16,6 +16,7 @@ HWI prep
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharmashivam755/HWI/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sharmashivam755/HWI/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/sharmashivam755/HWI/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0747-min-cost-climbing-stairs) |
@@ -44,6 +45,7 @@ HWI prep
 | ------- |
 | [0015-3sum](https://github.com/sharmashivam755/HWI/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -57,6 +59,7 @@ HWI prep
 | [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sharmashivam755/HWI/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/sharmashivam755/HWI/tree/master/1642-water-bottles) |
@@ -89,6 +92,7 @@ HWI prep
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sharmashivam755/HWI/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sharmashivam755/HWI/tree/master/0338-counting-bits) |
 ## String
 |  |
@@ -172,8 +176,13 @@ HWI prep
 | [0001-two-sum](https://github.com/sharmashivam755/HWI/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/sharmashivam755/HWI/tree/master/1642-water-bottles) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
