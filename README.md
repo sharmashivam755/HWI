@@ -12,6 +12,7 @@ HWI prep
 | [0055-jump-game](https://github.com/sharmashivam755/HWI/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sharmashivam755/HWI/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/sharmashivam755/HWI/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmashivam755/HWI/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -178,6 +179,7 @@ HWI prep
 | ------- |
 | [0001-two-sum](https://github.com/sharmashivam755/HWI/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 ## Simulation
@@ -188,4 +190,8 @@ HWI prep
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
