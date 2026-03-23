@@ -64,6 +64,7 @@ HWI prep
 | [0009-palindrome-number](https://github.com/sharmashivam755/HWI/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sharmashivam755/HWI/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sharmashivam755/HWI/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/sharmashivam755/HWI/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sharmashivam755/HWI/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
@@ -117,6 +118,7 @@ HWI prep
 | [0012-integer-to-roman](https://github.com/sharmashivam755/HWI/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/sharmashivam755/HWI/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
@@ -205,6 +207,7 @@ HWI prep
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sharmashivam755/HWI/tree/master/0043-multiply-strings) |
 | [1642-water-bottles](https://github.com/sharmashivam755/HWI/tree/master/1642-water-bottles) |
 ## Binary Search
 |  |
