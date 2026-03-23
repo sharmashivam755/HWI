@@ -22,6 +22,7 @@ HWI prep
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharmashivam755/HWI/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sharmashivam755/HWI/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sharmashivam755/HWI/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sharmashivam755/HWI/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
@@ -81,6 +82,7 @@ HWI prep
 | [0119-pascals-triangle-ii](https://github.com/sharmashivam755/HWI/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmashivam755/HWI/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharmashivam755/HWI/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sharmashivam755/HWI/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sharmashivam755/HWI/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
@@ -95,6 +97,7 @@ HWI prep
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
@@ -112,6 +115,7 @@ HWI prep
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sharmashivam755/HWI/tree/master/0344-reverse-string) |
@@ -189,6 +193,7 @@ HWI prep
 | [0001-two-sum](https://github.com/sharmashivam755/HWI/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 ## Simulation
@@ -205,4 +210,8 @@ HWI prep
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
