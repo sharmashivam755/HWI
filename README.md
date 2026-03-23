@@ -119,6 +119,7 @@ HWI prep
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/sharmashivam755/HWI/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/sharmashivam755/HWI/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
