@@ -14,6 +14,7 @@ HWI prep
 | [0066-plus-one](https://github.com/sharmashivam755/HWI/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmashivam755/HWI/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharmashivam755/HWI/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -189,6 +190,7 @@ HWI prep
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 ## Matrix
 |  |
