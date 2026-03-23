@@ -13,6 +13,7 @@ HWI prep
 | [0057-insert-interval](https://github.com/sharmashivam755/HWI/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/sharmashivam755/HWI/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
@@ -105,6 +106,7 @@ HWI prep
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
@@ -140,6 +142,7 @@ HWI prep
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 | [0744-network-delay-time](https://github.com/sharmashivam755/HWI/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
@@ -162,6 +165,7 @@ HWI prep
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -196,4 +200,5 @@ HWI prep
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
