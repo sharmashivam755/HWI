@@ -23,6 +23,7 @@ HWI prep
 | [0135-candy](https://github.com/sharmashivam755/HWI/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sharmashivam755/HWI/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sharmashivam755/HWI/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sharmashivam755/HWI/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
@@ -83,6 +84,7 @@ HWI prep
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmashivam755/HWI/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharmashivam755/HWI/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sharmashivam755/HWI/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sharmashivam755/HWI/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sharmashivam755/HWI/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
