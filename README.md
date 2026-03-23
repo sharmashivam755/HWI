@@ -10,6 +10,7 @@ HWI prep
 | [0015-3sum](https://github.com/sharmashivam755/HWI/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/sharmashivam755/HWI/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sharmashivam755/HWI/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/sharmashivam755/HWI/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmashivam755/HWI/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ HWI prep
 | [0009-palindrome-number](https://github.com/sharmashivam755/HWI/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sharmashivam755/HWI/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sharmashivam755/HWI/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
