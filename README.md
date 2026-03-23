@@ -62,6 +62,7 @@ HWI prep
 | ------- |
 | [0002-add-two-numbers](https://github.com/sharmashivam755/HWI/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sharmashivam755/HWI/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sharmashivam755/HWI/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sharmashivam755/HWI/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sharmashivam755/HWI/tree/master/0066-plus-one) |
@@ -113,6 +114,7 @@ HWI prep
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sharmashivam755/HWI/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sharmashivam755/HWI/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
@@ -194,6 +196,7 @@ HWI prep
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharmashivam755/HWI/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/sharmashivam755/HWI/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharmashivam755/HWI/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
