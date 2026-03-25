@@ -82,6 +82,7 @@ HWI prep
 | [0055-jump-game](https://github.com/sharmashivam755/HWI/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sharmashivam755/HWI/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sharmashivam755/HWI/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/sharmashivam755/HWI/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmashivam755/HWI/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharmashivam755/HWI/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -121,6 +122,7 @@ HWI prep
 | [0043-multiply-strings](https://github.com/sharmashivam755/HWI/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sharmashivam755/HWI/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sharmashivam755/HWI/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/sharmashivam755/HWI/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sharmashivam755/HWI/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
