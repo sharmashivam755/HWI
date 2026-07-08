@@ -133,6 +133,7 @@ HWI prep
 | [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sharmashivam755/HWI/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
+| [0709-to-lower-case](https://github.com/sharmashivam755/HWI/tree/master/0709-to-lower-case) |
 ## Divide and Conquer
 |  |
 | ------- |
