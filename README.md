@@ -31,6 +31,7 @@ HWI prep
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sharmashivam755/HWI/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0747-min-cost-climbing-stairs) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sharmashivam755/HWI/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ HWI prep
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sharmashivam755/HWI/tree/master/1236-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sharmashivam755/HWI/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/sharmashivam755/HWI/tree/master/1642-water-bottles) |
 ## Dynamic Programming
 |  |
