@@ -32,6 +32,7 @@ HWI prep
 | [0485-max-consecutive-ones](https://github.com/sharmashivam755/HWI/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0747-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/sharmashivam755/HWI/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sharmashivam755/HWI/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -47,6 +48,7 @@ HWI prep
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/sharmashivam755/HWI/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
