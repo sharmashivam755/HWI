@@ -8,6 +8,7 @@ HWI prep
 | ------- |
 | [0001-two-sum](https://github.com/sharmashivam755/HWI/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sharmashivam755/HWI/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/sharmashivam755/HWI/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/sharmashivam755/HWI/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sharmashivam755/HWI/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sharmashivam755/HWI/tree/master/0055-jump-game) |
@@ -39,6 +40,7 @@ HWI prep
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sharmashivam755/HWI/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/sharmashivam755/HWI/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharmashivam755/HWI/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
