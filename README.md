@@ -28,6 +28,7 @@ HWI prep
 | [0152-maximum-product-subarray](https://github.com/sharmashivam755/HWI/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sharmashivam755/HWI/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sharmashivam755/HWI/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@ HWI prep
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sharmashivam755/HWI/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
