@@ -30,6 +30,7 @@ HWI prep
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/sharmashivam755/HWI/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sharmashivam755/HWI/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0747-min-cost-climbing-stairs) |
@@ -72,6 +73,7 @@ HWI prep
 | [0049-group-anagrams](https://github.com/sharmashivam755/HWI/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/sharmashivam755/HWI/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/sharmashivam755/HWI/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0977-squares-of-a-sorted-array) |
