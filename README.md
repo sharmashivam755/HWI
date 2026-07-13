@@ -34,6 +34,7 @@ HWI prep
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sharmashivam755/HWI/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/sharmashivam755/HWI/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharmashivam755/HWI/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/sharmashivam755/HWI/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/sharmashivam755/HWI/tree/master/0941-valid-mountain-array) |
@@ -179,6 +180,7 @@ HWI prep
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sharmashivam755/HWI/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/sharmashivam755/HWI/tree/master/0724-find-pivot-index) |
 ## Stack
 |  |
 | ------- |
