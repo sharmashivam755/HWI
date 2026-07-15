@@ -157,6 +157,7 @@ HWI prep
 | [0242-valid-anagram](https://github.com/sharmashivam755/HWI/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sharmashivam755/HWI/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/sharmashivam755/HWI/tree/master/0709-to-lower-case) |
 ## Divide and Conquer
@@ -239,6 +240,7 @@ HWI prep
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sharmashivam755/HWI/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Simulation
 |  |
@@ -262,5 +264,10 @@ HWI prep
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/sharmashivam755/HWI/tree/master/1051-height-checker) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sharmashivam755/HWI/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
