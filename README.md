@@ -74,6 +74,7 @@ HWI prep
 | [0015-3sum](https://github.com/sharmashivam755/HWI/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sharmashivam755/HWI/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sharmashivam755/HWI/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/sharmashivam755/HWI/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sharmashivam755/HWI/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sharmashivam755/HWI/tree/master/0455-assign-cookies) |
@@ -153,6 +154,7 @@ HWI prep
 | [0125-valid-palindrome](https://github.com/sharmashivam755/HWI/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/sharmashivam755/HWI/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/sharmashivam755/HWI/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sharmashivam755/HWI/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sharmashivam755/HWI/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sharmashivam755/HWI/tree/master/0392-is-subsequence) |
@@ -235,6 +237,7 @@ HWI prep
 | [0073-set-matrix-zeroes](https://github.com/sharmashivam755/HWI/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/sharmashivam755/HWI/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/sharmashivam755/HWI/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sharmashivam755/HWI/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharmashivam755/HWI/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharmashivam755/HWI/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Simulation
